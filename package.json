@@ -1,0 +1,14 @@
+{
+  "name": "insta-comment-bot",
+  "version": "1.0.0",
+  "description": "Bot for comment on posts of instagram",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luan Lima",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^23.0.1"
+  }
+}
